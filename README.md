@@ -1,5 +1,5 @@
 # 🔐 Phishing Website Detection
-### DSA-609 Mini Data Science Project
+### Mini Data Science Project
 
 ## 📋 Overview
 Machine learning project to detect phishing websites 
